@@ -18,6 +18,7 @@ I’m **MD YOUSUF WIZDAN**, a **Full-Stack Developer** and **Computer Science st
 - 🧠 Strong in **Data Structures & Algorithms (DSA)**  
 - 🏗️ Interested in **startups, system design & product engineering**  
 - 🤝 Open to **internships, freelance work & full-time roles**
+- 📧 Contact Email - mdyousufwizdan@gmail.com**
 
 ---
 
@@ -54,9 +55,6 @@ I’m **MD YOUSUF WIZDAN**, a **Full-Stack Developer** and **Computer Science st
 <p align="center">
   <a href="https://www.linkedin.com/in/yousufwizdan/">
     <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:mdyousufwizdan@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-222222?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 

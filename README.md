@@ -14,9 +14,10 @@
 
 I’m **MD YOUSUF WIZDAN**, a **Full-Stack Developer** and **Computer Science student** focused on building scalable web applications and solving real-world engineering problems.
 
+- 👩🏻‍💻 Currently Learning GoLang! 
 - 🚀 Building full-stack apps using **MERN, React, Next.js & Tailwind**  
 - 🧠 Strong in **Data Structures & Algorithms (DSA)**  
-- 🏗️ Interested in **startups, system design & product engineering**  
+- 🏗️ Interested in **startups, system design & product engineering**
 - 🤝 Open to **internships, freelance work & full-time roles**
 - 📧 Contact Email - mdyousufwizdan@gmail.com**
 

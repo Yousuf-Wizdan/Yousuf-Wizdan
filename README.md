@@ -14,7 +14,7 @@
 
 I’m **MD YOUSUF WIZDAN**, a **Full-Stack Developer** and **Computer Science student** focused on building scalable web applications and solving real-world engineering problems.
 
-- 👩🏻‍💻 Currently Learning GoLang! 
+- 👩🏻‍💻 Currently Learning SpringBoot🌱! 
 - 🚀 Building full-stack apps using **MERN, React, Next.js & Tailwind**  
 - 🧠 Strong in **Data Structures & Algorithms (DSA)**  
 - 🏗️ Interested in **startups, system design & product engineering**
